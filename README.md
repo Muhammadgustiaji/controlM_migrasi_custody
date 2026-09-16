@@ -1,4 +1,4 @@
-# Orkestrasi Custody Switch Over & Switch Back di Control-M
+# Custody Switch Over & Switch Back di Control-M
 
 Repositori ini berisi contoh definisi workflow Control-M untuk perpindahan layanan custody antara **data center utama (DC)** dan **disaster recovery center (DRC)**. Dua XML merupakan hasil ekspor definisi folder, masing-masing berisi 32 job. Nama host, alamat IP, akun `RUN_AS`, dan path lingkungan asli telah diganti dengan placeholder untuk kebutuhan portofolio.
 
